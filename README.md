@@ -9,10 +9,8 @@ which can be used in practically anything really.
 <br>
 You could use these to spot a bubble in data trends, like in the stock market,
 or in something like a production pipeline where quality must be ensured.
-<br>
-<br>
 
-### Algorithms Preset
+## Algorithms Preset
 - Threshold based detection
 - Quantile based detection
 - IQR based detection
