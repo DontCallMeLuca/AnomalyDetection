@@ -1,8 +1,8 @@
-# Anomaly Detection
+<h1 align="center">🔎 Anomaly Detection 🔎</h1>
 
-###### _Super simple and basic application of anomaly detection algorithms_
+<h6 align="center"><em>Super simple and basic application of anomaly detection algorithms</em></h6>
 
-## What
+## What is it?
 
 This is a very basic application of anomaly detection algorithms,
 which can be used in practically anything really.
